@@ -1,0 +1,10 @@
+Vector AR en librairie
+Afficher les 1o données sur graphes pour voir corrélation (normaliser) 
+calcule de corélation entre chaque variable (matrice puis heatmap)
+calcule de corrélation avec le résultat 
+Corrélation :  entre (-1 et 0) corrélation inversée et entre (0 et 1) corrélation positive (LES DEUX SONT CORRELATIONS)
+
+voir Information cf lila
+
+Après ca on ne pourra pas prédire 
+Déterminer formule qui en prenant en compte les différentes corrélation ressort une valeur
